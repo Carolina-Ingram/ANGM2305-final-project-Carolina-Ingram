@@ -7,12 +7,16 @@ https://github.com/Carolina-Ingram/ANGM2305-final-project-Carolina-Ingram.git
 Acts as a basic drawing program with prebuilt symbols for different crochet stitches that users can populate and rearrange to create their own crochet pattern that they can then export as an image file. Intention is to use this program over winter and summer break when I create a stop motion animation project with crochet puppets, props, and environments to document the patterns I create for potential reuse.
 
 ## Features
-- Feature 1
-	- Short explaination of how it will be executed.
-- Feature 2
-	- Short explaination of how it will be executed.
-- Feature N 
-	- Short explaination of how it will be executed.
+- Program Window
+	- Use pygame to initialize, launch, and close program window.
+- Draw Symbols
+	- Either create buttons on the screen that draws the symbol when pressed or use keyboard conditions to draw symbols when certain keys are pressed.
+- Rearrange Symbols
+	- Use mouse detection to identify when a symbol is held and allow user to move it.
+- Rotate Symbols
+    - Use mouse detection paired with a keyboard conditions to identify which symbol is held and allow user to rotate it with the arrow keys.
+- Export Pattern
+    - Use pillow and either an on screen button or keyboard conditions to export pattern as an image file.
 
 ## Challenges
 - Short sentence of any skill or topic that needs to be learnt or researched.
