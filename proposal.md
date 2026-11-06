@@ -27,10 +27,10 @@ Acts as a basic drawing program with prebuilt symbols for different crochet stit
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- Pygame window with UI buttons that draw the appropriate crochet symbol when pressed, allow users to move and rotate symbols, and UI buttons that export the page section of the pygame window as an image file. Would also like to allow users to change the color of the symbols if there's time.
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- Pygame window that draws the apporpriate crochet symbols when certain keys are pressed, allows users to move and rotate symbols, and exports page section of the pygame window as an image file when certain keys are pressed.
 
 ## Milestones
 
