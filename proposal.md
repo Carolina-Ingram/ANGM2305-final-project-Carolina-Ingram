@@ -19,9 +19,11 @@ Acts as a basic drawing program with prebuilt symbols for different crochet stit
     - Use pillow and either an on screen button or keyboard conditions to export pattern as an image file.
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Had trouble with launching a fullscreen program last lab, so how to launch program in fullscreen. Otherwise, I'll have to use toggle fullscreen again.
+- How to create UI buttons with pygame.
+- How to use mouse detection to move symbols.
+- How to use mouse detection with keyboard conditions to rotate symbols.
+- How to use pygame and pillow together to export portion of pygame window as an image file
 
 ## Outcomes
 Ideal Outcome:
