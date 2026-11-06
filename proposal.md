@@ -1,10 +1,10 @@
-# Title
+# Crochet Pattern Maker
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/Carolina-Ingram/ANGM2305-final-project-Carolina-Ingram.git
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+Acts as a basic drawing program with prebuilt symbols for different crochet stitches that users can populate and rearrange to create their own crochet pattern that they can then export as an image file. Intention is to use this program over winter and summer break when I create a stop motion animation project with crochet puppets, props, and environments to document the patterns I create for potential reuse.
 
 ## Features
 - Feature 1
