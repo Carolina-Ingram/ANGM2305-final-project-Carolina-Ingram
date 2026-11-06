@@ -35,13 +35,14 @@ Minimal Viable Outcome:
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Set up pygame window
+  2. Create crochet symbol dictonary with the name, abreviation, and image
+  3. Add symbol drawing feature using UI buttons and/or keys
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Add move feature to allow user to move the symbols
+  2. Add rotate feature to allow user to rotate the symbols
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Add export feature to allow user to export the pattern as an image file using UI buttons and/or keys
+  2. Add color feature to allow user to change the color of symbols if there's time
